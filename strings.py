@@ -1,0 +1,15 @@
+name = "suhail"
+nameshort = name[0:3]
+print(nameshort) # suh
+charcter1 = name[0]
+print(charcter1) # s
+charcter2 = name[1]
+print(charcter2) # u      
+charcter3 = name[2] 
+print(charcter3) # h
+charcter4 = name[3]
+print(charcter4) # a
+charcter5 = name[4]
+print(charcter5) # i
+charcter6 = name[5]
+print(charcter6) # l
